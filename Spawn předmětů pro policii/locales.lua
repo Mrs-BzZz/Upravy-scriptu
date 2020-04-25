@@ -32,3 +32,6 @@
   ['microfone'] = 'Mikrofon',
   ['body'] = 'Mrtvé telo',
   ['digiscanner'] = 'Digitální scanner',
+
+
+
