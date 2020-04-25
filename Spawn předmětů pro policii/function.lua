@@ -32,3 +32,4 @@
 {label = _U('microfone'), model = 'v_club_roc_micstd'},
 {label = _U('body'), model = 'v_ilev_body_parts'},
 {label = _U('digiscanner'), model = 'w_am_digiscanner'}
+
