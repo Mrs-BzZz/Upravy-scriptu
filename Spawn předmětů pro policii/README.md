@@ -20,3 +20,4 @@ Text z **locales.lua** zkopírujte do své složky s překladem, kterým použí
 - [x] Nové předměty ke spawnu.
 - [x] Český překlad s omezenou diakritikou.
 - [ ] Barrierový pás.
+
